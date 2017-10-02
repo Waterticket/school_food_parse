@@ -6,6 +6,12 @@ week.php : 일주일치 급식을 싱해옵니다.
 
 week_db.php : 파싱해온걸 db에 넣어줍니다.
 
+## 학교 코드
+이 내용은 $schulCode 에 넣어주세요
+학교번호는 아래 링크에서 확인 가능합니다.
+영어+숫자로 총 10글자 입니다. 예) 백제중학교 N100000505
+https://www.meatwatch.go.kr/biz/bm/sel/schoolListPopup.do
+
 ## 교육청 코드
 이 내용은 $officecode 에 넣어주세요
 * 서울시 교육청 : sen.go.kr
@@ -34,6 +40,6 @@ week_db.php : 파싱해온걸 db에 넣어줍니다.
 
 ## 급식 종류 코드
 이 내용은 $schMmealCode 에 넣어주세요
-* 1 : 조식
-* 2 : 중식
-* 3 : 식
+* 조식 : 1
+* 중식 : 2
+* 석식 : 3
