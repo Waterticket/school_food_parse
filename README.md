@@ -1,5 +1,5 @@
 # school_food_parse
-학교급식 파싱해주는 소스입니다.
+주간 학교급식 파싱해주는 소스입니다.
 굳이 만드려고 하지는 않았는데 없어서 직접 만들었습니다.
 
 week.php : 일주일치 급식을 싱해옵니다.
@@ -49,4 +49,6 @@ https://www.meatwatch.go.kr/biz/bm/sel/schoolListPopup.do
 
 ## 응용 예제
 http://bbshomepage.cf/daily_food/week 주간 급식예제
+
 http://bbshomepage.cf/daily_food/month 월간 급식예제
+* 월간급식을 불러오려면 $food_url에 sts_sci_md01_001.do을 sts_sci_md00_001.do으로 바꾸어 주시면 됩니다.
