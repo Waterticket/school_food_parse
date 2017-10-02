@@ -7,7 +7,7 @@ week.php : 일주일치 급식을 싱해옵니다.
 week_db.php : 파싱해온걸 db에 넣어줍니다.
 
 ## 교육청 코드
-### 이 내용은 $officecode 에 넣어주세요
+이 내용은 $officecode 에 넣어주세요
 * 서울시 교육청 : sen.go.kr
 * 경기도 교육청 : goe.go.kr
 * 강원도 교육청 : kwe.go.kr
