@@ -46,3 +46,7 @@ https://www.meatwatch.go.kr/biz/bm/sel/schoolListPopup.do
 * 조식 : 1
 * 중식 : 2
 * 석식 : 3
+
+## 응용 예제
+http://bbshomepage.cf/daily_food/week 주간 급식예제
+http://bbshomepage.cf/daily_food/month 월간 급식예제
