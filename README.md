@@ -8,9 +8,7 @@ week_db.php : 파싱해온걸 db에 넣어줍니다.
 
 ## 학교 코드
 이 내용은 $schulCode 에 넣어주세요.
-
 학교번호는 아래 링크에서 확인 가능합니다.
-
 영어+숫자로 총 10글자 입니다. 예) 백제중학교 N100000505
 
 https://www.meatwatch.go.kr/biz/bm/sel/schoolListPopup.do
