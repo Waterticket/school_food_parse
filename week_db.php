@@ -24,6 +24,13 @@ $text = file_get_contents($food_url);
 $temp = @explode('<td class="textC">', $text); 
 $tmp = @explode('</td>', $temp[12]); 
 
+/*
+Foods : 테이블 명
+(int 2)date : 일자 구분 예) 월=1, 화=2...
+(Text) daily : 식단내용
+(int 4)updates : 업데이트 날짜 4자리수 예)2월 18일:0218
+*/
+
 mysqli_query($conn,"INSERT INTO Foods (date, daily, updates) 
 VALUES ('1','$temp[8]',$date)"); 
 mysqli_query($conn,"INSERT INTO Foods (date, daily, updates) 
