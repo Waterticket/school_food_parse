@@ -8,6 +8,11 @@ week.php : 일주일치 급식을 싱해옵니다.
 
 week_db.php : 파싱해온걸 db에 넣어줍니다.
 
+week_db_read.php : db에서 급식 리스트를 불러옵니다
+
+마음대로 사용하시고 수정하셔도 되지만 코드 첫부분에 출처를 표기해 주세요!
+GNU General Public License(GPL) 3.0
+
 ## 학교 코드
 이 내용은 $schulCode 에 넣어주세요.
 
