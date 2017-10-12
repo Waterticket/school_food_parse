@@ -1,7 +1,7 @@
 <?php
 /*
-made by Waterticket
-matthew218@naver.com
+ made by Waterticket
+ matthew218@naver.com
 */
 $schulCode = ""; //학교 코드
 $officecode = ""; //교육청 코드
