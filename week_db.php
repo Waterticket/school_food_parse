@@ -1,7 +1,7 @@
 <?php
 /*
-made by Waterticket
-matthew218@naver.com
+ made by Waterticket
+ matthew218@naver.com
 */
 $db_host = "localhost"; 
 $db_user = "db_user"; 
