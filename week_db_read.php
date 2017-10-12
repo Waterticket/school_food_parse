@@ -38,7 +38,7 @@ $bob = str_replace('<br />','
 ',$bob);
 $bob = str_replace('</td>','',$bob);
 echo "$bob";
-
+ 
 mysqli_close($conn);
 }
 ?>
