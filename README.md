@@ -4,9 +4,9 @@
 
 최대한 심플하게 만들었습니다.
 
-week.php : 일주일치 급식을 싱해옵니다.
+week.php : 일주일치 급식을 파싱해옵니다.
 
-week_db.php : 파싱해온걸 db에 넣어줍니다.
+week_db.php : 급식을 파싱해 db에 넣어줍니다.
 
 week_db_read.php : db에서 급식 리스트를 불러옵니다
 
