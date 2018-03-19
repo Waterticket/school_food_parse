@@ -55,7 +55,7 @@ https://www.meatwatch.go.kr/biz/bm/sel/schoolListPopup.do
 * 석식 : 3
 
 ## 응용 예제
-http://bbshomepage.cf/daily_food/week 주간 급식예제
+https://www.cookiee.net/bbs/daily_food/week.php 주간 급식예제
 
-http://bbshomepage.cf/daily_food/month 월간 급식예제
+https://www.cookiee.net/bbs/daily_food/month.php 월간 급식예제
 * 월간급식을 불러오려면 $food_url에 sts_sci_md01_001.do을 sts_sci_md00_001.do으로 바꾸어 주시면 됩니다.
