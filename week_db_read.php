@@ -19,8 +19,8 @@ $i = $_GET['d']; //월:1 화:2 수:3 목:4 금:5 week_db_read.php?d=1 식으로 
 if($i == 0||$i == 6){ //토,일요일
    echo "오늘은 급식이 없습니다!";
    if($i == 0){ //일요일 학식 초기화
-   include_once('./food_require.php');
-}
+       include_once('./week_db.php'); //크론잡으로 주기적으로 실행하고 있을시 (예. 매주 일요일 마다) 없에셔도 됩니다.
+    }
 }else{
 $db_host = "localhost"; 
 $db_user = "db_user"; 
